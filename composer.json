@@ -1,0 +1,32 @@
+{
+    "name": "tahericreate/cleverreach-register-bundle",
+    "type": "contao-bundle",
+    "license": "LGPL-3.0-or-later",
+    "description": "Timelineloader Bundle.",
+    "keywords": [
+		"contao",
+		"theme",
+		"website",
+		"configuration",
+		"design",
+		"ui",
+		"ux"
+	],    
+	"version": "dev-main",
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "contao/core-bundle": "^4.9",
+        "contao/newsletter-bundle": "^4.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tahericreate\\CleverreachRegisterBundle\\": "src/"
+        }
+    },
+    "extra": {
+        "contao-manager-plugin": "Tahericreate\\CleverreachRegisterBundle\\ContaoManager\\Plugin"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}

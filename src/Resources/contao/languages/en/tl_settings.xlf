@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+  <file datatype="php" original="src/Resources/contao/languages/en/tl_settings.php" source-language="en">
+    <body>
+      <trans-unit id="tl_settings.cleverreach_legend">
+        <source>Cleverreach Settings</source>
+      </trans-unit>
+      
+      <trans-unit id="tl_settings.client_id.0">
+        <source>Customer number</source>
+      </trans-unit>
+      <trans-unit id="tl_settings.client_id.1">
+        <source>Please specify customer number.</source>
+      </trans-unit>
+
+      <trans-unit id="tl_settings.login.0">
+        <source>Username</source>
+      </trans-unit>
+      <trans-unit id="tl_settings.login.1">
+        <source>Please specify username.</source>
+      </trans-unit>
+
+     <trans-unit id="tl_settings.password.0">
+        <source>Password</source>
+      </trans-unit>
+      <trans-unit id="tl_settings.password.1">
+        <source>Please specify password.</source>
+      </trans-unit>
+
+      <trans-unit id="tl_settings.source.0">
+        <source>Source</source>
+      </trans-unit>
+      <trans-unit id="tl_settings.source.1">
+        <source>Please specify source.</source>
+      </trans-unit>
+
+      <trans-unit id="tl_settings.groups.0">
+        <source>Group</source>
+      </trans-unit>
+      <trans-unit id="tl_settings.groups.1">
+        <source>Please specify group.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
